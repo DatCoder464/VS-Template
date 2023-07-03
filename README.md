@@ -1,5 +1,3 @@
-![Logo-Recovered](vscreate_logo.png)
+# VS Addon Template
 
-# Eureka
-
-Basically Archimedes Ships, but with VS2 as the backend!
+Potato made basically everything im just a leech who wanted something more tailored
